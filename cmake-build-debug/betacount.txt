@@ -1,0 +1,6 @@
+# mesh name: boxMesh_1
+# primitive scorer name: betacount
+# iX, iY, iZ, total(value) [percm2], total(val^2), entry
+0,0,0,359999.9999999999,3799999999.999999,35
+0,0,1,319999.9999999999,3399999999.999999,31
+0,0,2,259999.9999999999,2599999999.999999,26
